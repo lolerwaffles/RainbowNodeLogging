@@ -2,14 +2,6 @@
 
 Rainbow Text is a simple Node.js module that produces a string formatted with ANSI color codes to create a rainbow gradient effect when printed to the console.
 
-## Installation
-
-Using npm:
-
-```bash
-npm install rainbow-text
-```
-
 ## Usage
 
 const rainbowText = require('rainbow-text');
